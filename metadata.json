@@ -1,0 +1,6 @@
+{
+  "name": "Периферія-9: Кисень у кредит",
+  "description": "2D ретро sci-fi рольова гра на орбітальній станції Периферія-9. Досліджуйте доки, торгуйте на базарі та вирішуйте долю станційного оксигенератора.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
